@@ -1,0 +1,244 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1726591564892419, "dur":28106, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591564920530, "dur":57, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591564920613, "dur":2322, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591564923243, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//Solar system_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1726591564924114, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726591564925974, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1726591564923059, "dur":3374, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591564926434, "dur":207112, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591565133546, "dur":374, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591565133947, "dur":52, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591565134132, "dur":1440, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1726591564921569, "dur":4877, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726591564926508, "dur":4257, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726591564936571, "dur":605, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937179, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937282, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937517, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937629, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937769, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937957, "dur":389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564938348, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564938426, "dur":301, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\A\\RPG_Unity\\NKKM\\1. Solar system\\Solar system\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726591564938766, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerd1fd729c-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1726591564937178, "dur":1733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726591564939410, "dur":61, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726591564940953, "dur":189034, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726591565132498, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726591565132497, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//Solar system_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726591565132607, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726591564921597, "dur":4856, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726591564926454, "dur":849, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726591564927304, "dur":3581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726591564939958, "dur":3460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1726591564943862, "dur":4125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564948252, "dur":3267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564951653, "dur":4403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564956106, "dur":171, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726591564956281, "dur":5563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564961934, "dur":4821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564966801, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564971353, "dur":4873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726591564976289, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726591564976363, "dur":9242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1726591564985631, "dur":147926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726591564921628, "dur":4883, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726591564926511, "dur":4272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726591564930800, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726591564930786, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726591564934318, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726591564938270, "dur":12546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726591564950861, "dur":3538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564954484, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564958190, "dur":4876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564963121, "dur":4064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564967220, "dur":4628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564971908, "dur":8106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726591564980086, "dur":10683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1726591564990796, "dur":142786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726591564921653, "dur":4868, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726591564926522, "dur":4256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726591564930783, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1726591564933476, "dur":5086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1726591564939039, "dur":12199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564956054, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726591564951332, "dur":4855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564956300, "dur":3588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564959996, "dur":4737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564964769, "dur":3787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564968589, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564973408, "dur":8279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726591564981720, "dur":151824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726591564921699, "dur":4814, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726591564926513, "dur":4262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726591564930798, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1726591564930782, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1726591564935744, "dur":3694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1726591564939575, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system.exe" }}
+,{ "pid":12345, "tid":5, "ts":1726591564943881, "dur":7368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564951300, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564954923, "dur":3711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564958686, "dur":3243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564962002, "dur":4323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564966370, "dur":4690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564971096, "dur":4694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726591564975858, "dur":9275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1726591564985160, "dur":148390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726591564921677, "dur":4830, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726591564926508, "dur":4265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726591564930795, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1726591564930782, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1726591564932853, "dur":7403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1726591564942874, "dur":6346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1726591564949275, "dur":3123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564952465, "dur":3782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564956296, "dur":3226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564959609, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564964716, "dur":4341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564969107, "dur":4725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564973882, "dur":8649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726591564982584, "dur":150956, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726591564921803, "dur":4713, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726591564926517, "dur":4269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726591564930788, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1726591564933028, "dur":4176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1726591564938224, "dur":11081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1726591564949343, "dur":3851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564953263, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564957036, "dur":4822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564961908, "dur":4918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564966871, "dur":4900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564971843, "dur":4380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726591564979515, "dur":2861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1726591564982415, "dur":151127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726591564921933, "dur":4592, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726591564926526, "dur":4367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726591564938399, "dur":11051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1726591564949491, "dur":2541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564952104, "dur":3920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564956070, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726591564956232, "dur":3007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564959300, "dur":4344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564963696, "dur":4610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564968362, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564972897, "dur":5094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726591564978040, "dur":7479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1726591564985570, "dur":147984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726591564922051, "dur":4444, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726591564926499, "dur":740, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726591564927240, "dur":3650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726591564930891, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1726591564938273, "dur":10481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1726591564948865, "dur":4317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564953249, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564957150, "dur":5021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564962253, "dur":3621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564965923, "dur":3800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564969771, "dur":4578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564974400, "dur":8156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726591564982601, "dur":150952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726591564922186, "dur":4319, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726591564926506, "dur":4266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726591564930790, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726591564936178, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1726591564938487, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1726591564948928, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1726591564951285, "dur":4510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564955951, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564959481, "dur":5230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564964763, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564967900, "dur":4735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564972688, "dur":8839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726591564981595, "dur":7224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1726591564988852, "dur":144717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726591564922304, "dur":4189, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726591564926495, "dur":756, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726591564927251, "dur":3550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726591564930802, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1726591564933768, "dur":2999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1726591564938222, "dur":12501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1726591564950792, "dur":3001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564953829, "dur":3766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564957655, "dur":4082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564961818, "dur":4429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564966321, "dur":4684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564971062, "dur":5019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726591564976177, "dur":12315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1726591564988548, "dur":145016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726591564922454, "dur":4037, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726591564926492, "dur":898, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726591564927391, "dur":3516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726591564939788, "dur":3464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1726591564943816, "dur":7812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564951687, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564956067, "dur":153, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726591564956224, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564959918, "dur":5435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564965480, "dur":2663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564968244, "dur":4559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564972854, "dur":6834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726591564979745, "dur":8854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1726591564988635, "dur":144928, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726591564922603, "dur":3896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726591564926502, "dur":285, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726591564926787, "dur":4008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726591564930806, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1726591564930796, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1726591564934727, "dur":2695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1726591564937496, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1726591564938235, "dur":12353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1726591564950640, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564954108, "dur":3479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564957625, "dur":4328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564962003, "dur":3878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564965927, "dur":4151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564970114, "dur":4523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591564974726, "dur":30037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726591565004812, "dur":128735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726591564922772, "dur":3705, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726591564926480, "dur":808, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726591564927288, "dur":3607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726591564938282, "dur":11056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1726591564949400, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564952399, "dur":3875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564956323, "dur":3282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564959708, "dur":5971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564965793, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564974934, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726591564969830, "dur":5182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726591564975163, "dur":4941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1726591564980172, "dur":8654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1726591564988853, "dur":144719, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726591564922841, "dur":3624, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726591564926466, "dur":843, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726591564927310, "dur":3587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726591564930898, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1726591564939430, "dur":11299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1726591564950817, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564954156, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564957436, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564961821, "dur":4313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564966182, "dur":4412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564970642, "dur":5124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726591564975818, "dur":8947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1726591564984823, "dur":148728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726591564922964, "dur":3497, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726591564926462, "dur":931, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726591564927393, "dur":3384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726591564930782, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1726591564933045, "dur":5464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1726591564938543, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564938542, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/A/Desktop//MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564938998, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564943858, "dur":7667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564956141, "dur":151, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726591564951596, "dur":4703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564956398, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564960072, "dur":5288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564965462, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564968568, "dur":5030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564973669, "dur":13739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/A/Desktop//Solar system_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726591564987434, "dur":146132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726591565138073, "dur":788, "ph":"X", "name": "ProfilerWriteOutput" }
+,
